@@ -2,7 +2,7 @@
   "name": "atom-ide-dark-syntax",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "A dark syntax theme that is supposed to look like the (unreleased) theme at https://ide.atom.com",
+  "description": "A dark syntax theme that is supposed to look like the (unreleased) theme at https://ide.atom.io",
   "keywords": [
     "syntax",
     "theme",
