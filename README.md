@@ -1,6 +1,6 @@
 # Atom IDE Dark Syntax theme
 
-![atom-ide-dark-syntax](screenshot.png)
+![atom-ide-dark-syntax](https://raw.githubusercontent.com/ryanolsonx/atom-ide-dark-syntax/master/screenshot.png)
 
 > The font used in this screenshot is [Fira Code](https://github.com/tonsky/FiraCode)
 
